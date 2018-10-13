@@ -1,0 +1,2 @@
+# soc-
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d9daf0d6870247728674ec429b62607b)](https://app.codacy.com/app/gbkrevin/soc-?utm_source=github.com&utm_medium=referral&utm_content=terixte/soc-&utm_campaign=Badge_Grade_Settings)
